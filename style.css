@@ -1,0 +1,18 @@
+.buttons{
+display: flex;
+}
+.login{
+    display: flex;
+    align-items: baseline;
+    
+}
+a{
+margin: 20px;
+
+}
+a:hover{
+text-decoration: none;
+border: 1px  solid  rgb(149, 149, 219) ;
+border-radius:10px;
+padding: 10px;
+}
